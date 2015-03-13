@@ -1,0 +1,1 @@
+This lib creates a Image based on the supplied text
